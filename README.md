@@ -1,4 +1,4 @@
-# fifachallengegroup40
+# Fifa Analysis
 Fifa Challenge for CS109 Group 40
 
 ## Problem Statement
@@ -14,4 +14,4 @@ https://harvard-iacs.github.io/2020-CS109A/pages/EA%20Sports%20-%20FIFA.pdf
 
 ## Participants
 
-## Presentation Ideas
+Alaa Ali, Masaoud Haidar, Vinit Patankar, and Robert Roessler.
